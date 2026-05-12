@@ -1,0 +1,3 @@
+[submodule "submodule/navbar"]
+	path = submodule/navbar
+	url = git@github.com:luthfianhar/module-belajar-submodule.git
